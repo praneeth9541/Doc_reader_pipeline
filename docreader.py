@@ -9,7 +9,7 @@ import numpy as np
 
 # Download NLTK data
 nltk.download('punkt')
-
+nltk.download('punkt_tab')
 # Initialize Sentence Transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
