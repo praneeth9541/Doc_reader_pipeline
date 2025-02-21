@@ -1,0 +1,7 @@
+streamlit
+pymupdf  # for fitz
+nltk
+sentence-transformers
+qdrant-client
+scikit-learn
+numpy
